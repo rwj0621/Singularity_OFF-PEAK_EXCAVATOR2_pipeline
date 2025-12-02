@@ -1,0 +1,8 @@
+T1 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19131 NA19131
+T2 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19138 NA19138
+T3 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19152 NA19152
+T4 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19159 NA19159
+T5 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19200 NA19200
+T6 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19206 NA19206
+T7 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19223 NA19223
+C1 /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA10847 NA10847
