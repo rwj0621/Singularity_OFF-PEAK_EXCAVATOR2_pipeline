@@ -9,7 +9,7 @@
     #3.查看singularity 版本
     singularity --version
 ## 二、创建专属镜像
-* 创建dockerfile
+* 创建[dockerfile](https://github.com/rwj0621/Singularity_OFF-PEAK_EXCAVATOR2_pipeline/blob/main/dockerfile)
 * 构建镜像
 
         docker build -t off_peak-excavator2_tools .
