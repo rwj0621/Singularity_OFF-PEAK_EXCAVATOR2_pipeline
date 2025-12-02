@@ -1,0 +1,1 @@
+/opt/tools/EXCAVATOR2/data/ucsc.hg19.bw /data/renweijie/data/reference/hs37d5.fa
