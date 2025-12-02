@@ -1,0 +1,8 @@
+/data/renweijie/1000GP/processed_bams/NA19131.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19131 NA19131
+/data/renweijie/1000GP/processed_bams/NA10847.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA10847 NA10847
+/data/renweijie/1000GP/processed_bams/NA19138.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19138 NA19138
+/data/renweijie/1000GP/processed_bams/NA19152.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19152 NA19152
+/data/renweijie/1000GP/processed_bams/NA19159.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19159 NA19159
+/data/renweijie/1000GP/processed_bams/NA19200.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19200 NA19200
+/data/renweijie/1000GP/processed_bams/NA19206.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19206 NA19206
+/data/renweijie/1000GP/processed_bams/NA19223.filtered.bam /data/renweijie/1000GP/1KGP_singularity_20k/Results/NA19223 NA19223
