@@ -70,9 +70,9 @@
 ### 2.运行EXCAVATOR2
 * 创建所需配置文件
   
-  * SourceTarget.txt
-  * ExperimentalFilePrepare.w20000.txt
-  * ExperimentalFileAnalysis.w20K.txt
+  * [SourceTarget.txt](https://github.com/rwj0621/Singularity_OFF-PEAK_EXCAVATOR2_pipeline/blob/main/EXCAVATOR2/SourceTarget.txt)
+  * [ExperimentalFilePrepare.w20000.txt](https://github.com/rwj0621/Singularity_OFF-PEAK_EXCAVATOR2_pipeline/blob/main/EXCAVATOR2/ExperimentalFilePrepare.w20000.txt)
+  * [ExperimentalFileAnalysis.w20K.txt](https://github.com/rwj0621/Singularity_OFF-PEAK_EXCAVATOR2_pipeline/blob/main/EXCAVATOR2/ExperimentalFileAnalysis.w20K.txt)
 * 运行TargetPerla.pl
   
         cd /opt/tools/EXCAVATOR2/lib/F77
