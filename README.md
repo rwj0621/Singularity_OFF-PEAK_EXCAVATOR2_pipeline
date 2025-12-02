@@ -68,8 +68,11 @@
        --genome-plots \
        --nb-plots 20
 ### 2.运行EXCAVATOR2
-*创建所需配置文件
-  *
+* 创建所需配置文件
+  
+  * SourceTarget.txt
+  * ExperimentalFilePrepare.w20000.txt
+  * ExperimentalFileAnalysis.w20K.txt
 * 运行TargetPerla.pl
   
         cd /opt/tools/EXCAVATOR2/lib/F77
